@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Flask>=2.0.0
 Werkzeug==2.0.3
 python-telegram-bot==20.0
 requests
+=======
+Flask>=2.0.0
+Werkzeug==2.0.3
+python-telegram-bot==20.0
+requests
+>>>>>>> 79f685a3e913b08bd9afd2914d1e2e2646388329
